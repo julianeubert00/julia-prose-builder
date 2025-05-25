@@ -9,7 +9,7 @@ blablabla
 
 ### Built With
 
-*[![Java][Java.com][Java-url]
+* [![Java][Java.com]][Java-url]
 
 <!-- GETTING STARTED -->
 ## Getting Started
