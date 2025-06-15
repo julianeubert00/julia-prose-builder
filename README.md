@@ -5,7 +5,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-blablabla
+A simple prose builder for constructing text content from individual sentences.
+Prose Builder provides a flexible way to construct text content by registering and combining sentences.
 
 ### Built With
 
